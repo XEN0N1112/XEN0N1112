@@ -58,16 +58,6 @@ I aim to write clean code, understand architecture, and grow continuously.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deem1112&theme=flat&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 ## 📈 Goals | Цели
 
 - 🚀 Become confident Python Developer  
