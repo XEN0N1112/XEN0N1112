@@ -62,7 +62,7 @@ I aim to write clean code, understand architecture, and grow continuously.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deem1112&theme=radical&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deem1112&theme=flat&no-frame=true&row=1&column=6"/>
 
 </div>
 
