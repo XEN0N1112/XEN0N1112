@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm xen0n
+# 👋 Hi, I'm XEN0N
 
 ### 🐍 Python Backend Developer | Python Backend-разработчик
 
